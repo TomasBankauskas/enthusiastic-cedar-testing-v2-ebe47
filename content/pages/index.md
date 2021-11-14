@@ -23,7 +23,7 @@ sections:
         url: images/tailwindcss.svg
         altText: Cute Cat
         caption: Look! It's a cat!
-    spacing: 4
+    spacing: 3
     columns: 4
     imageSizePx: 120
     showCaption: false

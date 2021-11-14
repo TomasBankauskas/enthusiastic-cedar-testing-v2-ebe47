@@ -661,6 +661,14 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - type: TextSection
     colors: colors-f
     backgroundWidth: full

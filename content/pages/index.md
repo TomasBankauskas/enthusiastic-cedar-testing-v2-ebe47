@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-d
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum

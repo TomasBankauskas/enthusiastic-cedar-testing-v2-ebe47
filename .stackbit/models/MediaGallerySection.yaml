@@ -28,19 +28,19 @@ fields:
       models: [ImageBlock]
     default:
       - type: ImageBlock
-        url: images/hugh-saturation.jpg
+        url: images/tailwind
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/hugh-saturation.jpg
+        url: images/tailwind
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/hugh-saturation.jpg
+        url: images/tailwind
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/hugh-saturation.jpg
+        url: images/tailwind
         altText: Cute Cat
         caption: Look! It's a cat!           
   - type: number

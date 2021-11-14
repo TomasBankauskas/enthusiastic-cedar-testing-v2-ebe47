@@ -28,19 +28,19 @@ fields:
       models: [ImageBlock]
     default:
       - type: ImageBlock
-        url: https://loremflickr.com/cache/resized/65535_51377543930_d101570b6d_b_640_640_nofilter.jpg
+        url: images/hugh-saturation.jpg
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: https://loremflickr.com/cache/resized/65535_51377543930_d101570b6d_b_640_640_nofilter.jpg
+        url: images/hugh-saturation.jpg
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: https://loremflickr.com/cache/resized/65535_51377543930_d101570b6d_b_640_640_nofilter.jpg
+        url: images/hugh-saturation.jpg
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: https://loremflickr.com/cache/resized/65535_51377543930_d101570b6d_b_640_640_nofilter.jpg
+        url: images/hugh-saturation.jpg
         altText: Cute Cat
         caption: Look! It's a cat!           
   - type: number

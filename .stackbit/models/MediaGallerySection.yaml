@@ -28,21 +28,21 @@ fields:
       models: [ImageBlock]
     default:
       - type: ImageBlock
-        url: images/tailwindcss.svg
-        altText: Cute Cat
-        caption: Look! It's a cat!
+        url: images/logo-github.svg
+        altText: GitHub
+        caption: GitHub
       - type: ImageBlock
-        url: images/stackbit.svg
-        altText: Cute Cat
-        caption: Look! It's a cat!
+        url: images/logo-netlify.svg
+        altText: Nelify logo
+        caption: Nelify
       - type: ImageBlock
-        url: images/tailwindcss.svg
-        altText: Cute Cat
-        caption: Look! It's a cat!
+        url: images/logo-stickermule.svg
+        altText: Stickermule logo
+        caption: Stickermule
       - type: ImageBlock
-        url: images/tailwindcss.svg
-        altText: Cute Cat
-        caption: Look! It's a cat!           
+        url: images/logo-twilio.svg
+        altText: Twilio logo
+        caption: Twilio        
   - type: number
     name: spacing
     label: Spacing between images

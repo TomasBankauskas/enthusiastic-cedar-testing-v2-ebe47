@@ -8,6 +8,62 @@ sections:
     subtitle: Check out some of the brands that are already trusting us
     images:
       - type: ImageBlock
+        url: images/hugh-saturation.jpg
+        altText: Cute Cat
+        caption: Look! It's a cat!
+      - type: ImageBlock
+        url: images/hugh-saturation.jpg
+        altText: Cute Cat
+        caption: Look! It's a cat!
+      - type: ImageBlock
+        url: images/hugh-saturation.jpg
+        altText: Cute Cat
+        caption: Look! It's a cat!
+      - type: ImageBlock
+        url: images/hugh-saturation.jpg
+        altText: Cute Cat
+        caption: Look! It's a cat!
+    spacing: 1
+    columns: 4
+    imageSizePx: 120
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        width: full
+        height: auto
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-neutral
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+    type: MediaGallerySection
+  - colors: colors-a
+    elementId: ''
+    title: Our Customers
+    subtitle: Check out some of the brands that are already trusting us
+    images:
+      - type: ImageBlock
         url: >-
           https://loremflickr.com/cache/resized/65535_51377543930_d101570b6d_b_640_640_nofilter.jpg
         altText: Cute Cat

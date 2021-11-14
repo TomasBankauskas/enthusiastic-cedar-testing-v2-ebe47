@@ -669,6 +669,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/about.jpg
   - type: TextSection
     colors: colors-f
     backgroundWidth: full

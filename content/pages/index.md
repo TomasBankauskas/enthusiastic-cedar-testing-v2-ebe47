@@ -25,7 +25,7 @@ sections:
         caption: Twilio
     spacing: 1
     columns: 4
-    imageSizePx: 75
+    imageSizePx: 239
     showCaption: false
     enableHover: true
     styles:

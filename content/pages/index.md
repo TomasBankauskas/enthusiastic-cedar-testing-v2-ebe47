@@ -10,7 +10,7 @@ sections:
       elementId: ''
       styles:
         self:
-          opacity: 100
+          opacity: 50
       type: ImageBlock
       url: /images/about.jpg
     title: This Is A Big Hero Headline

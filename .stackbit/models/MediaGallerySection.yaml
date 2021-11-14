@@ -28,19 +28,19 @@ fields:
       models: [ImageBlock]
     default:
       - type: ImageBlock
-        url: images/tailwindcss
+        url: images/tailwindcss.svg
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/tailwindcss
+        url: images/tailwindcss.svg
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/tailwindcss
+        url: images/tailwindcss.svg
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/tailwindcss
+        url: images/tailwindcss.svg
         altText: Cute Cat
         caption: Look! It's a cat!           
   - type: number

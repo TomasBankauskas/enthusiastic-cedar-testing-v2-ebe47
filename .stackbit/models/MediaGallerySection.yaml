@@ -19,7 +19,7 @@ fields:
   - type: string
     name: subtitle
     label: Subtitle
-    default: Aren't they lovely photos?
+    default: Check out some of the brands that are already trusting us
   - type: list
     name: images
     label: Images

@@ -15,7 +15,7 @@ fields:
   - type: string
     name: title
     label: Title
-    default: Some photos
+    default: Our customers
   - type: string
     name: subtitle
     label: Subtitle

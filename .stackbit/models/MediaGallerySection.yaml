@@ -32,7 +32,7 @@ fields:
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/tailwindcss.svg
+        url: images/stackbit.svg
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock

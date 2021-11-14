@@ -12,6 +12,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/about.jpg
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
     text: |-

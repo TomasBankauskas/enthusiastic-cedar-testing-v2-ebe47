@@ -89,7 +89,7 @@ sections:
     styles:
       self:
         width: full
-        height: auto
+        height: screen
         margin:
           - mt-0
           - mb-0

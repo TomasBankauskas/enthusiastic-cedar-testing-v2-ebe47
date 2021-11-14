@@ -83,7 +83,7 @@ sections:
         caption: Twilio
     spacing: 1
     columns: 4
-    imageSizePx: 239
+    imageSizePx: 78
     showCaption: true
     enableHover: true
     styles:

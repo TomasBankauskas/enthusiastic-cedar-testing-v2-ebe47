@@ -79,6 +79,13 @@ sections:
         url: /images/desmond-eagle.jpg
         altText: Cute Cat
         caption: Look! It's a cat!
+      - altText: lorem-ipsum
+        caption: lorem-ipsum
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
     spacing: 3
     columns: 4
     imageSizePx: 120

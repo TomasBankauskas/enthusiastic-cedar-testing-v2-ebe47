@@ -76,7 +76,7 @@ sections:
         altText: Cute Cat
         caption: Look! It's a cat!
       - type: ImageBlock
-        url: images/tailwindcss.svg
+        url: /images/desmond-eagle.jpg
         altText: Cute Cat
         caption: Look! It's a cat!
     spacing: 3

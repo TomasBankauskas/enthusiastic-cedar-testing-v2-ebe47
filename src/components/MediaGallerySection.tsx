@@ -62,6 +62,7 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
 
     return (
         <div
+        <div
             id={cssId}
             className={classNames(
                 'sb-component',

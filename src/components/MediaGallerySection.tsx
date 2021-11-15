@@ -82,7 +82,7 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
             style={{
                 borderWidth: `${sectionBorderWidth}px`
             }}
-            data-sb-field-path={props.annotationPrefix}
+            
         >
             <div className={classNames('flex', 'w-full', sectionStyles?.justifyContent ? mapStyles({ justifyContent: sectionStyles?.justifyContent }) : null)}>
                 <div className={classNames('flex', 'w-full', sectionStyles.width ? mapMaxWidthStyles(sectionStyles.width) : null, sectionStyles?.justifyContent ? mapStyles({ justifyContent: sectionStyles?.justifyContent }) : null)}>

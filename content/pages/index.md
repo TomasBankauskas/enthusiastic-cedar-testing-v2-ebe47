@@ -100,7 +100,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: none
-        borderWidth: 0
+        borderWidth: 4
         borderStyle: none
         borderColor: border-neutral
       title:

@@ -61,7 +61,7 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
     const sectionBorderWidth = sectionStyles?.borderWidth || 0;
 
     return (
-        <div <div
+        <div data-sb-field-path={props.annotationPrefix}></div>
         <div
             id={cssId}
             className={classNames(
